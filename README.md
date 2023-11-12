@@ -7,3 +7,4 @@ What do we have here:
 3) DI implementation with repository, container, implementation of the Factory pattern on the viewModel object
 4) we used Coil library and created AsyncImage
 5) we used Retrofit library and created networkApiService
+6) viewModelScope.launch
